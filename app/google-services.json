@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "940708661455",
+    "project_id": "musix-b4d74",
+    "storage_bucket": "musix-b4d74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940708661455:android:48b38446d9a10606a04fba",
+        "android_client_info": {
+          "package_name": "com.eja.musix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940708661455-tk44gjdogl0gknch3mtltfbkr918l9ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZaneaI1w90TFQKkpFphZO56JlSLYpN8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940708661455-tk44gjdogl0gknch3mtltfbkr918l9ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
